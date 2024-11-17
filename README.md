@@ -8,3 +8,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 NYou should be able to log in and out of application using the following credentials:
 Email: user@nextmail.com
 Password: 123456
+
+
+-- use Vercel
