@@ -50,9 +50,6 @@ export default function Page() {
         alt="Screenshot of the dashboard project showing mobile version"
       />
         </div>
-        <p  className={`${lusitana.className}  text-xl text-gray-800 md:text-3xl md:leading-normal`}>current Chapter 3</p>
-        <p>https://nextjs.org/learn/dashboard-app/optimizing-fonts-images</p>
-        <p>111</p>
       </div>
     </main>
   );
